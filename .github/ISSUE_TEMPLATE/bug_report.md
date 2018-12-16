@@ -1,7 +1,7 @@
 
-**Report Type: Bug Report.**
-
-**About: Behaviour of Apollo Discord Library.**
+Report Type: Bug Report.
+------------------------------------------
+About: Behaviour of Apollo Discord Library.
 
 **Please describe the problem you are having in as much detail as possible:**
 **Include a reproducible code sample here, if possible:**
