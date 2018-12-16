@@ -14,9 +14,9 @@ Behaviour of Apollo Discord Library.
 ```
 
 **Further details:**
-- Apollo.js version:
-- Node.js version:
-- Operating system:
+- Apollo.js Version:
+- Node.js Version:
+- Operating System:
 
 <!--
 If this applies to you, please check the respective checkbox: [ ] becomes [x].
@@ -26,4 +26,4 @@ While it's not a requirement to test your issue on the master branch, it would m
 the problem a lot easier for us, so please do so if possible.
 -->
 
-- [ ] I have also tested the issue on the latest master build?
+- [ ] I have tested the issue on the latest master build?
