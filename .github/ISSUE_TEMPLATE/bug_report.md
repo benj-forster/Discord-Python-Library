@@ -1,4 +1,3 @@
-
 Bug Report
 ------------------------------------------
 Behaviour of Apollo Discord Library.
