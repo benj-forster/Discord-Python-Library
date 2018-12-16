@@ -1,5 +1,5 @@
 
-Report Type: Bug Report.
+Bug Report
 ------------------------------------------
 About: Behaviour of Apollo Discord Library.
 
