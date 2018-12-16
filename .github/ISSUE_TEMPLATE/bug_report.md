@@ -9,15 +9,14 @@ Behaviour of Apollo Discord Library.
 
 ```js
 
-// Place your code here
+// Insert Code Here
 
 ```
 
 **Further details:**
-- discord.js version:
+- Apollo.js version:
 - Node.js version:
 - Operating system:
-- Priority this issue should have – please be realistic and elaborate if possible:
 
 <!--
 If this applies to you, please check the respective checkbox: [ ] becomes [x].
@@ -27,4 +26,4 @@ While it's not a requirement to test your issue on the master branch, it would m
 the problem a lot easier for us, so please do so if possible.
 -->
 
-- [ ] I have also tested the issue on latest master, commit hash:
+- [ ] I have also tested the issue on the latest master build?
