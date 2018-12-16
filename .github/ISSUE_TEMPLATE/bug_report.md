@@ -1,20 +1,10 @@
----
-name: Bug report
-about: Report incorrect or unexpected behaviour of discord.js
 
----
-
-<!--
-If you need help with discord.js installation or usage, please go to the discord.js Discord server instead:
-  https://discord.gg/bRCvFy9
-This issue tracker is only for bug reports and enhancement suggestions.
-You won't receive any basic help here.
--->
+Report Type: Bug Report.
+About: Behaviour of Apollo Discord Library.
 
 **Please describe the problem you are having in as much detail as possible:**
-
-
 **Include a reproducible code sample here, if possible:**
+
 ```js
 
 // Place your code here
